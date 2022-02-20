@@ -1,0 +1,33 @@
+
+.page {
+    font-family: Inter;
+    min-width: 320px;
+    max-width: 1600px;
+    margin: 0 auto;
+    background: #8b8a8a
+}
+.header{
+    display: flex; 
+    height: 106px;
+}
+.logo__header{
+    min-width: 142px;
+    min-height: 42px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.lang-links{
+    margin-left: 26.25%;
+    margin-top: 30px;
+}
+
+.lang-link{
+ margin-right: 18px;
+ min-width: 22px;
+ min-height: 20px;
+}
+.lang-link:nth-of-type(2) {
+    margin-right:5%;
+    text-decoration: none;
+  }
