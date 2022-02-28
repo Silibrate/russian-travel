@@ -1,11 +1,11 @@
-.lang-links {
+.header__lang-links {
     font-size: 24px;
     line-height: 28px;
     margin-top: 18px;
     margin-bottom: 6px;
 }
 
-.lang-link__en {
+.header__lang-link__en {
     color: #FFFFFF;
     max-width: 29px;
     max-height: 28px;
@@ -14,7 +14,7 @@
     font-weight: normal;
 }
 
-.lang-link__ru {
+.header__lang-link__ru {
     color: #FFFFFF;
     margin-right: 13px;
     max-width: 30px;
@@ -24,12 +24,12 @@
 }
 
 @media (max-width:425px) {
-    .lang-link__ru {
+    .header__lang-link__ru {
         font-size: 18px;
         line-height: 20px;
     }
 
-    .lang-link__en {
+    .header__lang-link__en {
         font-size: 18px;
         line-height: 20px;
     }
