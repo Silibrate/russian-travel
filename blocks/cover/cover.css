@@ -1,7 +1,12 @@
 .cover {
+  margin-top: 92px;
+  text-align: center;
+  overflow: hidden;
+  box-sizing: border-box;
+}
 
-    margin-top: 92px;
-    text-align: center;
-    overflow: hidden;
-    box-sizing: border-box;
+@media screen and (max-width:425px) {
+  .cover {
+    margin-top: 66px;
+  }
 }
