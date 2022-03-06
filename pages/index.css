@@ -12,10 +12,12 @@
 @import url("../blocks/footer/__links/footer__links.css");
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
+@import url("../blocks/header/__lang-link/_status/header__lang-link_status_active.css");
 @import url("../blocks/header/__lang-links/header__lang-links.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/intro/intro.css");
 @import url("../blocks/intro/__list/intro_list.css");
+@import url("../blocks/intro/__list/__span-bold/intro__span-bold.css");
 @import url("../blocks/intro/__lists/intro__lists.css");
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__title/intro__title.css");

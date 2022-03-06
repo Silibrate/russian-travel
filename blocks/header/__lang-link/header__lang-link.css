@@ -10,11 +10,6 @@
   box-shadow: 0 1px 0 0 white;
 }
 
-.header__lang-link_status_active {
-  box-shadow: 0 1px 0 0 white;
-  cursor: default;
-}
-
 @media (max-width:425px) {
   .header__lang-link {
     font-size: 18px;
